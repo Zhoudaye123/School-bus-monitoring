@@ -1,2 +1,2 @@
-# Intelligent-Voice
-基于STM32F103C8T6的智能语音系统
+# School bus monitoring
+基于STM32F103ZET6的校车安全监控系统
